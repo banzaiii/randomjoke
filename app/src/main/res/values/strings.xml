@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ржунемогу</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Категории</string>
+    <string name="jokeText">Загрузка</string>
+    <string name="nextButton">Загрузить еще</string>
+    <string name="NotConnected">Нет соединения с интернетом</string>
+    <string name="title_activity_settings">Категории</string>
+
+</resources>
